@@ -1,0 +1,16 @@
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\bin\Debug\net5.0\Punto2.exe
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\bin\Debug\net5.0\Punto2.deps.json
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\bin\Debug\net5.0\Punto2.runtimeconfig.json
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\bin\Debug\net5.0\Punto2.runtimeconfig.dev.json
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\bin\Debug\net5.0\Punto2.dll
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\bin\Debug\net5.0\ref\Punto2.dll
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\bin\Debug\net5.0\Punto2.pdb
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.csproj.AssemblyReference.cache
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.AssemblyInfoInputs.cache
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.AssemblyInfo.cs
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.dll
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\ref\Punto2.dll
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.pdb
+C:\Users\Claudio\Desktop\Repos\EvaluacionFundamentos\Punto2\obj\Debug\net5.0\Punto2.genruntimeconfig.cache
